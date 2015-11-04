@@ -1,3 +1,4 @@
 # C-Prog
-C Grundkurs unter Linux /n
+C Grundkurs unter Linux
+
 1. Teil - Hello World
